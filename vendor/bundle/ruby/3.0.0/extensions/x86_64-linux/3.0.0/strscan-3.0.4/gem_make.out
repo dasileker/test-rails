@@ -1,0 +1,16 @@
+current directory: /home/amine/desktop/test-rails/test-rails-app/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.4/ext/strscan
+/home/amine/.rvm/rubies/ruby-3.0.0/bin/ruby -I /home/amine/.rvm/rubies/ruby-3.0.0/lib/ruby/site_ruby/3.0.0 -r ./siteconf20220803-1064-8duoys.rb extconf.rb
+checking for onig_region_memsize() in ruby.h... yes
+creating Makefile
+
+current directory: /home/amine/desktop/test-rails/test-rails-app/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= clean
+
+current directory: /home/amine/desktop/test-rails/test-rails-app/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\=
+compiling strscan.c
+linking shared-object strscan.so
+
+current directory: /home/amine/desktop/test-rails/test-rails-app/vendor/bundle/ruby/3.0.0/gems/strscan-3.0.4/ext/strscan
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 strscan.so ./.gem.20220803-1064-s0rs0z
